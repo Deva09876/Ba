@@ -7,8 +7,7 @@ bsdk = (bc['f']+bc['a']+bc['u']+bc['d']+bc['s']+bc['f']+bc['a']+bc['s']+bc['u']+
 startxt = """Hello [{}](tg://user?id={}),
 
 __I am Alive Already 🥴!
-And Ready To Fuck Groups
-Add Me There And I will Bang Group ☺️!__
+Add Me There And I will Find Lyrics ☺️!__
 
 **My lib's Info!**
 ❍ Python Version » `{}`
@@ -21,7 +20,7 @@ Type `/help` For Commands!
 
 startxt2 = """Hello [{}](tg://user?id={}),
 
-__This Is A BanAll Bot\nOnly My Owner Can Access This Bot!\nCreated By @WonderAakash\__
+__This Is A Lyrics Finder Bot\nOnly My Owner Can Access This Bot!\__
 
 **My lib's Info!**
 ❍ Python Version » `{}`
@@ -35,9 +34,7 @@ __Here is the help menu__:
 
  /start - To start the bot.
  /ping - Check Bot is alive.
- /banall - To FUCK GROUP MEMBERS 😈.
+ /lyrics - To check lyrics.
  /leave - To leave group.
  /restart - To restart the bot.
-
-❍ Meet My Owner At [SUPPORT](https://t.me/XavierSUPPORT) FOR ANY KIND OF ISSUES!!
 """
